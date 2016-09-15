@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "target": "es6",
+    "jsx": "react",
+    "experimentalDecorators": true
+  },
+  "files": [
+    "./typings/index.d.ts"
+  ]
+}
